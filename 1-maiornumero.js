@@ -10,7 +10,7 @@ Programa desenvolvido por:
 */
 
 function findMax(any){
-    let maior = 0
+    let maior = any[0]
     for(let i=0; i < any.length; i++ ){
         if(any[i] > maior){
             maior = any[i]
