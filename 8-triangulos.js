@@ -8,7 +8,7 @@ na primeira linha e adicionando um asterisco a cada linha subsequente.
 Você pode usar a função .repeat().
 
 Programa desenvolvido por:
- - Aluno 1
+ - Wanderlei
  - Aluno 2
  - Aluno 3
  - Aluno 4
