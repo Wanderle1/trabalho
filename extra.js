@@ -9,7 +9,7 @@ Dica: Utilize o método filter para encontrar os elementos comuns. Utilize o mé
 includes para verificar se um elemento está presente no outro array.
 
 Programa desenvolvido por:
- - Aluno 1
+ - Wanderlei
  - Aluno 2
  - Aluno 3
  - Aluno 4
