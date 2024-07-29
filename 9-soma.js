@@ -3,7 +3,7 @@ Crie uma função chamada sumTwoNumbers que aceite dois números como parâmetro
 a soma deles.
 
 Programa desenvolvido por:
- - Aluno 1
+ - Wanderlei
  - Aluno 2
  - Aluno 3
  - Aluno 4
