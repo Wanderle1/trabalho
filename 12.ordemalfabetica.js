@@ -7,7 +7,7 @@ Utilize o método sort para ordenar os caracteres. Utilize o método join para
 juntar os caracteres em uma nova string.
 
 Programa desenvolvido por:
- - Aluno 1
+ - Wanderlei
  - Aluno 2
  - Aluno 3
  - Aluno 4
