@@ -8,7 +8,7 @@ para dividir a string em um array de caracteres, reverse() para
 inverter o array e join('') para juntar os caracteres de volta em uma string.
 
 Programa desenvolvido por:
- - Aluno 1
+ - Wanderlei
  - Aluno 2
  - Aluno 3
  - Aluno 4
