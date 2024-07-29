@@ -7,7 +7,7 @@ Dica: Some todos os elementos do array e divida pela quantidade de elementos. Ut
 método reduce para somar os elementos do array.
 
 Programa desenvolvido por:
- - Aluno 1
+ - Wanderlei
  - Aluno 2
  - Aluno 3
  - Aluno 4
